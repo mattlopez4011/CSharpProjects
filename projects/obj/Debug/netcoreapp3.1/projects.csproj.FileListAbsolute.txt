@@ -1,0 +1,11 @@
+/Users/matt_lopez/Desktop/c# projects/projects/projects/bin/Debug/netcoreapp3.1/projects
+/Users/matt_lopez/Desktop/c# projects/projects/projects/bin/Debug/netcoreapp3.1/projects.deps.json
+/Users/matt_lopez/Desktop/c# projects/projects/projects/bin/Debug/netcoreapp3.1/projects.runtimeconfig.json
+/Users/matt_lopez/Desktop/c# projects/projects/projects/bin/Debug/netcoreapp3.1/projects.runtimeconfig.dev.json
+/Users/matt_lopez/Desktop/c# projects/projects/projects/bin/Debug/netcoreapp3.1/projects.dll
+/Users/matt_lopez/Desktop/c# projects/projects/projects/bin/Debug/netcoreapp3.1/projects.pdb
+/Users/matt_lopez/Desktop/c# projects/projects/projects/obj/Debug/netcoreapp3.1/projects.csprojAssemblyReference.cache
+/Users/matt_lopez/Desktop/c# projects/projects/projects/obj/Debug/netcoreapp3.1/projects.AssemblyInfoInputs.cache
+/Users/matt_lopez/Desktop/c# projects/projects/projects/obj/Debug/netcoreapp3.1/projects.AssemblyInfo.cs
+/Users/matt_lopez/Desktop/c# projects/projects/projects/obj/Debug/netcoreapp3.1/projects.dll
+/Users/matt_lopez/Desktop/c# projects/projects/projects/obj/Debug/netcoreapp3.1/projects.pdb
